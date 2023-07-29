@@ -34,8 +34,7 @@ The machine learning algorithms used :
 6. Multi-Layer Perceptron
 7. Gradient Boosting Machines
 8. XGBoost
-9. LightGBM
-10. CatBoost
+9. CatBoost
 
 The performance metrics used :
 1. Confusion Matrix

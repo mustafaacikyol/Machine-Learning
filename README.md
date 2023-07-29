@@ -26,15 +26,16 @@ The feature selection methods used :
 6. Step Backward Selection
 
 The machine learning algorithms used :
-1. Support Vector Machine
-2. K Nearest Neighborhood
-3. Decision Tree
-4. Random Forest
-5. Multi-Layer Perceptron
-6. Gradient Boosting Machines
-7. XGBoost
-8. LightGBM
-9. CatBoost
+1. Logistic Regression
+2. Support Vector Machine
+3. K Nearest Neighborhood
+4. Decision Tree
+5. Random Forest
+6. Multi-Layer Perceptron
+7. Gradient Boosting Machines
+8. XGBoost
+9. LightGBM
+10. CatBoost
 
 The performance metrics used :
 1. Confusion Matrix

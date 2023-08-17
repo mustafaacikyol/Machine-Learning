@@ -1,5 +1,5 @@
 # Machine-Learning
-In this repository, there are projects developed in the jupyter notebook environment using machine learning algorithms in the field of health.
+In this repository, there are projects developed in the jupyter notebook environment using machine learning algorithms in the field of healthcare.
 ## Predict Diabetes
 In this project, data on diabetes patients were collected.
 
